@@ -114,13 +114,20 @@ Termina a execução da **função atual** e volta para quem a chamou.
 
 Sai do **GDB**.
 
-## 7) layout src:
-
-Ativa o layout do GDB
-
 ```bash
 quit
 ```
+
+## 7) LAYOUT:
+
+```bash
+layout src
+
+```
+
+Ativa o layout do GDB
+
+
 
 ---
 
