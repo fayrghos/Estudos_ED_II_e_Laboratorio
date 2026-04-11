@@ -2,7 +2,7 @@
 
 ## Código:
 ```c
-    #include <stdlib.h>
+#include <stdlib.h>
 typedef struct no{
     int valor;
     int nfilhos;
